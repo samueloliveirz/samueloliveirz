@@ -26,11 +26,12 @@ I’m focused on **clean code, organized architecture, and business-driven solut
 
 ## 🧠 What I do
 
--   🧩 REST APIs with Spring Boot
--   🗄️ Relational databases & data modeling
--   💼 Business logic for local businesses
--   📊 Management systems & dashboards
-
+-   🧩 REST APIs with Spring Boot (Web, Data JPA, Validation)
+-   🏗️ Layered architecture: controllers, services, repositories and DTOs
+-   🛡️ Standardized error handling with @ControllerAdvice
+-   🗄️ PostgreSQL & data modeling with JPA/Hibernate
+-   🏢 Multi-tenant systems (each client sees only its own data)
+-   💼 Business rules for local businesses (scheduling conflicts, finance, plan limits)
 ---
 
 ## 🛠️ Tech Stack

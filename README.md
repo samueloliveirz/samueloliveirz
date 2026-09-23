@@ -57,8 +57,8 @@ I’m focused on **clean code, organized architecture, and business-driven solut
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=samueloliveirz&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueloliveirz&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=samueloliveirz&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samueloliveirz&theme=tokyonight" />
 </p>
 
 ---
@@ -72,4 +72,3 @@ I’m focused on **clean code, organized architecture, and business-driven solut
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-
